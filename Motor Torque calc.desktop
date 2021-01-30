@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=XXX
+Icon=/home/sammy-ros/Desktop/images.jpeg
+
+
+Exec=python /home/sammy-ros/web_ws/trq.py
+Terminal=false
+Type=Application
+Name[en_IN]=Motor Torque calc
